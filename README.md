@@ -1,4 +1,4 @@
-###Hi There 👋
+### Hi There 👋
 
 Myself Vinit Kumar 🤓. 
 I am a First-year Computer Science student and I am looking forward to a great programmin journey.
